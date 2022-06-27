@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eron</h1>
-<h3 align="center">A passionate frontend developer and Product designer</h3>
+<h3 align="center">A passionate Frontend developer and Product designer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/imeronn" target="blank"><img src="https://img.shields.io/twitter/follow/imeronn?logo=twitter&style=for-the-badge" alt="imeronn" /></a> </p>
