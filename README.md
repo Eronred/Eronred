@@ -3,13 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/imeronn" target="blank"><img src="https://img.shields.io/twitter/follow/imeronn?logo=twitter&style=for-the-badge" alt="imeronn" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imeronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imeronn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eronred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eronred" height="30" width="40" /></a>
-<a href="https://dribbble.com/imeron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="imeron" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -28,10 +21,21 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imeronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imeronn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eronred" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eronred" height="30" width="40" /></a>
+<a href="https://dribbble.com/imeron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="imeron" height="30" width="40" /></a>
+</p>
+
+
+<!-- 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eronred&show_icons=true&locale=en&layout=compact" alt="eronred" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eronred&show_icons=true&locale=en" alt="eronred" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eronred&" alt="eronred" /></p>
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eronred&label=Profile%20views&color=0e75b6&style=flat" alt="eronred" /> </p>
