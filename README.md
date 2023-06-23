@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eren👋</h1>
-<h3 align="center">A passionate product designer who love to code</h3>
+<h3 align="center">A passionate product designer who loves to code</h3>
 
 <p align="left"> <a href="https://twitter.com/imeronn" target="blank"><img src="https://img.shields.io/twitter/follow/imeronn?logo=twitter&style=for-the-badge" alt="imeronn" /></a> </p>
 
